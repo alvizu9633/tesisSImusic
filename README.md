@@ -7,3 +7,7 @@ La presente tesis está enfocada en el área de Ingeniería de Sistemas, tiene c
 ## Herramientas de desarrollo.
 
 En una breve descripción del sistema de información implementado, se presenta como una aplicación de escritorio. Provista de su base de datos estructurada con su gestor **XAMPP - PHPMyAdmin**, donde su base de datos se importa de manera sencilla y manejable a través de los archivos. Utilizando como capa operativa, nombramos el lenguaje de programación **Python** para crear el entorno Frontend con las librerias *Tkinter*. Encargado también de la comunicación Backend entre **MySQL** y la interacción del usuario con el entorno por cada información requerida.
+
+## Manual de usuario
+
+Se contempla el manual del usuario (Dentro del repositorio) para el correcto manejo del sistema de información. Las rutas y opciones son explicadas de manera detallada con sus propias imágenes referenciales. 
