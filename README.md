@@ -22,7 +22,7 @@ Se contempla el manual del usuario (Dentro del repositorio) para el correcto man
   
       Finalizada la instalación, se activa el servidor local apache y el MySQL para posteriormente exportar la estructura de la [base de datos](https://github.com/alvizu9633/tesisSImusic/tree/main/Base%20de%20datos/Estructura) que se encuentra dentro del repositorio.
       
-  3. Instalación del lenguaje de programación [Python](https://www.python.org/downloads/).
+  3. Instalación del lenguaje de programación [Python](https://www.python.org/downloads/) versión 2.6 o superior.
   
       Posteriormente, se instala el lenguaje de programación requerido, para que el sistema pueda ejecutarse en el escritorio del dispositivo.
       
